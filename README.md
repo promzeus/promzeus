@@ -50,10 +50,10 @@ The predecessor of the gateway above. It is a Helm chart for spotahome/redis-ope
 ---
 
 ## Stack
-**Infra:** Kubernetes, AWS EKS, Karpenter, Helm, Docker / Swarm, Redis Sentinel, HAProxy, Bareos, iptables, Prometheus, Linux
-**LLM / ML infra:** llama.cpp, GGUF quantization (imatrix, IQ2/Q5_K), vLLM, speculative decoding (MTP, EAGLE-3), NVIDIA GB10 / DGX Spark
-**Code:** Go, Python, Bash, C/C++ (embedded, ARM Cortex-M)
-**RF / DSP:** SDR, HackRF + PortaPack, digital-mode decoding (FT8)
+- **Infra:** Kubernetes, AWS EKS, Karpenter, Helm, Docker / Swarm, Redis Sentinel, HAProxy, Bareos, iptables, Prometheus, Linux
+- **LLM / ML infra:** llama.cpp, GGUF quantization (imatrix, IQ2/Q5_K), vLLM, speculative decoding (MTP, EAGLE-3), NVIDIA GB10 / DGX Spark
+- **Code:** Go, Python, Bash, C/C++ (embedded, ARM Cortex-M)
+- **RF / DSP:** SDR, HackRF + PortaPack, digital-mode decoding (FT8)
 
 ## Contact
 🌐 [mikudice.org](https://mikudice.org)
